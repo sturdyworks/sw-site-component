@@ -1,6 +1,23 @@
-node_modules/
-bower_components/
-*.log
+# Mac
+.DS_Store
 
+#yeomen
+# node_modules
+node_modules/
+report/
+coverage/
 build/
 dist/
+tmp/
+
+# Log files
+logs
+*.log
+
+#bower_components
+bower_components
+
+# Runtime data
+pids
+*.pid
+*.seed
