@@ -64,6 +64,8 @@ MultiTransclude loops through elements to clone: 1) Get target ID ; 2) Find targ
 </swb-site>
 ```
 
+A more complete [CodePen](http://codepen.io/kara/pen/XJpEyN) is also available until **GitHub** code commit.
+
 ## Project Generator
 
 Project uses [generator-ng-poly](https://github.com/dustinspecker/generator-ng-poly) which organizes Angular components by feature (home, about, video player, etc.) instead of by type (controller, service, directive, etc.) to encourage the development of self-contained, reusable components, and has Polymer feature but isn't required for web-site component. A typical workflow with this generator consists of creating an Angular module ([ng-poly:module](#module)) and then generating controllers, directives, etc. for this module to create a new feature.
