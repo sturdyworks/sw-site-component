@@ -64,7 +64,7 @@ MultiTransclude loops through elements to clone: 1) Get target ID ; 2) Find targ
 </swb-site>
 ```
 
-A more complete [CodePen](http://codepen.io/kara/pen/VYPXKW) is also available until **GitHub** code commit.
+A more complete [CodePen](http://codepen.io/kara/pen/XJpEyN) is also available until **GitHub** code commit.
 
 ## Project Generator
 
